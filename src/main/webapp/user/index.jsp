@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	userindex.jsp
+	user index jsp
 </body>
 </html>

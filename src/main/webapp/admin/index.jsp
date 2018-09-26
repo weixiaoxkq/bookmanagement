@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	adminindex.jsp
+	admin index jsp
 </body>
 </html>
